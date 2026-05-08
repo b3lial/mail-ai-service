@@ -1,0 +1,6 @@
+[submodule "mail-agent"]
+	path = mail-agent
+	url = git@github.com:b3lial/mail-agent.git
+[submodule "mail-proxy"]
+	path = mail-proxy
+	url = git@github.com:b3lial/mail-proxy.git
